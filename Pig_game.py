@@ -23,7 +23,7 @@ print("1. You will get to roll a dice once.")
 print("2. If the number is other than one, then the number will be added to your score.")
 print("3. If the number is one, then your score becomes zero and it's the next player's turn.")
 print("4. Whoever reaches 40 points first or more wins.")
-time.sleep(5)
+input("Press Enter when you are ready!!")
 print("Let's play the game!!!!!\n")
 
 # Initialize scores for each player
